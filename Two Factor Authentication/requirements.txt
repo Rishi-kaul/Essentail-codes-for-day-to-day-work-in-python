@@ -1,0 +1,4 @@
+libs to install
+
+pyotp
+qrcode 
